@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**Wyliemaster/Wyliemaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![petpet](https://media.discordapp.net/attachments/738844184311496740/889585311808630814/index.gif)
 
-Here are some ideas to get you started:
+## Who am i?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bad Programmer
+- Reverse engineer
+<h6/>thats about it lol</h6>
+
+## Current Projects
+
+(The ones i'm actually proud of anyways)
+
+- [GDDocs](https://github.com/Wyliemaster/gddocs)
+
+- [GD Decompiled](https://github.com/Wyliemaster/GD-Decompiled)  
+
+Discord: Wylie#2674  
+I read DMs but only respond if i feel like it
