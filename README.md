@@ -17,11 +17,13 @@
 
 ## Languages
 
-- Node.js (most fluent)
+- Node.js
 - Python
-- php (ew)
-- C++ (barely know anything)
-- Assembly
+- PHP
+- C/C++
+- ARM7 Assembly
+- x86_64 Assembly
+- PPC Gecko Assembly
 
 Discord: Wylie#2674  
 I read DMs but only respond if i feel like it
