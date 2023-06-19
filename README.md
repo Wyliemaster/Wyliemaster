@@ -1,7 +1,5 @@
 # Welcome!
 
-![petpet](https://media.discordapp.net/attachments/738844184311496740/889585311808630814/index.gif)
-
 ## Who am i?
 
 - Programmer
